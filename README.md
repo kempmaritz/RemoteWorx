@@ -1,5 +1,5 @@
 # RemoteWorx
-multi-channel I/O IoT Wireless I/O Module
+multi-channel Remote I/O Module for IoT/M2M
 Connect consumer products to the cloud, then manage them with real-time data.
 Plug-in to existing control systems, apps, equipment and products to create new revenue models and drive efficiencies with usage analytics.
 
